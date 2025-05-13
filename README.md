@@ -1,6 +1,6 @@
-# 👋 Oi, eu sou o Luis Antonio!
+# 👋 Olá! Eu sou o Luis Antonio!
 
-🎯 Desenvolvedor **Front-end** apaixonado por criar interfaces modernas, rápidas e responsivas com **Next.js**, **React.js** e **TypeScript**.
+🎯 Sou um desenvolvedor **Front-end** apaixonado por criar interfaces modernas, rápidas e responsivas com **Next.js**, **React.js** e **TypeScript**.
 
 💻 Gosto de transformar ideias em produtos reais, com código limpo, acessível, pensado em expansão futura e fácil de manter.
 
