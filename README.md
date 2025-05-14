@@ -15,7 +15,7 @@ Next.js • React.js • TypeScript • JavaScript • HTML • CSS • Sass
 Tailwind CSS • Styled Components
 
 ⚙️ **Ferramentas:**  
-Redux • React Query • Zod • Git • GitHub • Vercel • Firebase • MongoDB
+Redux • React Query • Zod • Git • GitHub • Vercel • Firebase • MongoDB • VercelBLob
 
 🔐 **Autenticação:**  
 NextAuth • Firebase Auth
