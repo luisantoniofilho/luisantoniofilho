@@ -26,7 +26,7 @@ NextAuth • Firebase Auth
 
 ### 🛍️ [Kaya](https://github.com/luisantoniofilho/kaya)
 Marketplace focado em economia circular, com login via Google, cadastro de produtos e contato direto com vendedores.  
-🛠️ Next.js • MongoDB • Tailwind • Zod
+🛠️ Next.js • NextAuth • MongoDB • VercelBlob • Tailwind • Zod
 
 ### 🥦 [LightLife-V2](https://github.com/luisantoniofilho/lightlife-v2)
 App para calcular macronutrientes e acompanhar sua dieta.  
