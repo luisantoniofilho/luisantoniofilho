@@ -30,7 +30,7 @@ Marketplace focado em economia circular, com login via Google, cadastro de produ
 
 ### 🥦 [LightLife-V2](https://github.com/luisantoniofilho/lightlife-v2)
 App para calcular macronutrientes e acompanhar sua dieta.  
-🛠️ Next.js • Firebase • Spoonacular API
+🛠️ Next.js • Firebase • Spoonacular API • Tailwind
 
 ### 🏨 [The Wild Oasis](https://github.com/luisantoniofilho/the-wild-oasis)
 Sistema de reservas para hotel, com painel de controle e autenticação.  
