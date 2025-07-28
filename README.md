@@ -1,69 +1,78 @@
-# 👋 Olá! Eu sou o Luis Antonio!
+# Sobre
 
-🎯 Sou um desenvolvedor **Front-end** focado em criar interfaces modernas, rápidas e responsivas com **Next.js**, **React.js** e **TypeScript**.
+Desenvolvedor Front-end desde 2023, com foco em Next.js (App Router), React e TypeScript.
+Experiência com Server Actions, SSR, Redux, Context API, PostgreSQL, SQL Server,
+MongoDB, Firebase, APIs REST, validação com Zod e autenticação OAuth com NextAuth.
+Aplicação de princípios DRY e KISS, arquitetura limpa (MVC), componentização reutilizável e CI/CD
+com Vercel. Estilização responsiva com TailwindCSS e Styled Components, upload com Vercel
+Blob, versionamento com Git/GitHub. Testes unitários, de integração e TDD com Vitest
+(familiaridade com Jest) e React Testing Library. Testes E2E com Cypress. Vivência com
+metodologias ágeis e uso de Jira.
 
-💻 Gosto de transformar ideias em produtos reais, com código limpo, acessível, pensado em expansão futura e fácil de manter.
+# Projetos
 
----
+## Kaya – Plataforma de Economia Circular (Next.js + TypeScript + PostgreSQL)
 
-## 🚀 Tecnologias que uso
+* Aplicação web fullstack com Next.js App Router, TypeScript e banco PostgreSQL (Neon).
+* Substituição do MongoDB por PostgreSQL com queries seguras via tagged template literals (@neondatabase/serverless).
+* Validação com Zod e FormData API, garantindo integridade e feedback em tempo real.
+* Autenticação OAuth via Google (NextAuth.js), com proteção de rotas e controle de permissões.
+* Testes unitários e de integração com Vitest e React Testing Library.
+* Estilização com TailwindCSS (mobile-first) e foco em acessibilidade.
+* CI/CD com Vercel, versionamento com Git/GitHub.
+* Testes E2E com Cypress para fluxos críticos de usuário.
 
-🧠 **Linguagens & Frameworks:**  
-Next.js • React.js • TypeScript • JavaScript • HTML • CSS • Sass
+## LightLife-v2 – Website de Planejamento Nutricional (Next.js + TypeScript + MongoDB)
 
-🎨 **Estilo:**  
-Tailwind CSS • Styled Components
+* Nova versão da aplicação com Next.js 15 (App Router) e Server/Client Components para SSR e navegação híbrida.
+* MongoDB Atlas para persistência, com autenticação integrada via MongoDB Adapter e NextAuth.js (OAuth Google).
+* Validações com Zod e manipulação com FormData API.
+* Consumo da API Spoonacular (REST) para planos alimentares personalizados.
+* Gráficos com Recharts para distribuição de macronutrientes.
+* Tailwind CSS com CI/CD na Vercel.
 
-⚙️ **Ferramentas:**  
-Redux • React Query • Zod • Git • GitHub • Vercel • Firebase • MongoDB • VercelBLob
+## The Wild Oasis Website – versão para cliente (Next.js)
 
-🔐 **Autenticação:**  
-NextAuth • Firebase Auth
+* Plataforma de reservas com SSR/ISR e SEO otimizado.
+* Login via Google com NextAuth.js.
+* Calendário dinâmico com regras de disponibilidade e Optimistic UI.
+* Tailwind CSS para responsividade e acessibilidade.
 
----
+## The Wild Oasis – versão para uso interno (React.js + Supabase)
 
-## 🧩 Projetos em Destaque
+* CRUD administrativo com persistência em tempo real (Supabase).
+* React Router + React Query para navegação e sincronização de dados.
+* Styled Components para UI modular.
+* Autenticação protegida e gráficos de métricas de reservas.
+* Dark Mode e boas práticas de arquitetura.
 
-### 🛍️ [Kaya](https://github.com/luisantoniofilho/kaya)
-Marketplace focado em economia circular, com login via Google, cadastro de produtos e contato direto com vendedores.  
-🛠️ Next.js • NextAuth • MongoDB • VercelBlob • Tailwind • Zod
+## Fast React Pizza Co. (React.js + Redux)
 
-### 🥦 [LightLife-V2](https://github.com/luisantoniofilho/lightlife-v2)
-App para calcular macronutrientes e acompanhar sua dieta.  
-🛠️ Next.js • Firebase • Spoonacular API • Tailwind
+* Sistema de pedidos com Redux Toolkit para estado global.
+* React Router e consumo de APIs REST para pedidos e entregas.
 
-### 🏨 [The Wild Oasis](https://github.com/luisantoniofilho/the-wild-oasis)
-Sistema de reservas para hotel, com painel de controle e autenticação.  
-🛠️ React • Supabase • Styled Components
+## Outros projetos
 
-### 🍕 [Fast React Pizza](https://github.com/luisantoniofilho/fast-react-pizza)
-App de pedidos com carrinho, checkout e gerenciamento de estado.  
-🛠️ React • Redux • React Router
+Projetos como LightLife, React Quiz, Forkify, Natours, Omnifood, Trillo, Nexter,
+usePopcorn e WorldWise, com React.js, JavaScript, Sass, Firebase e Webpack,
+com foco em responsividade, componentização e consumo de APIs externas.
 
----
+# Educação
 
-## 🧠 Soft Skills
+* **Faculdade Estadual de SP - Zona Sul (FATEC)** (jan/2023 – dez/2025): Análise e Desenvolvimento de Sistemas (Superior)
+* **Escola Técnica Estadual de SP – Taboão (ETEC)** (jan/2020 – dez/2022): Desenvolvimento de Sistemas (Técnico)
 
-⚡ Aprendizado rápido  
-💬 Comunicação clara  
-🤝 Trabalho em equipe  
-🧩 Organização e foco
+# Cursos
 
----
+* **The Ultimate React Course 2024: React, Next.js, Redux & More** – Udemy (fev/2025)
+* **Advanced CSS and Sass: Flexbox, Grid, Animations and More** – Udemy (mai/2024)
+* **The Complete JavaScript Course 2024: From Zero to Expert** – Udemy (abr/2024)
 
-## 🌍 Idiomas
+# Soft Skills
 
-- 🇧🇷 Português — Nativo  
-- 🇺🇸 Inglês — Intermediário (leitura técnica)
-
----
-
-## 📫 Vamos conversar?
-
-- 📧 [luissantosfilho2014@gmail.com](mailto:luissantosfilho2014@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/luis-antonio-497180299/)  
-- 💻 [GitHub](https://github.com/luisantoniofilho)
-
----
-
-✨ Obrigado por passar por aqui!
+* Inglês intermediário
+* Resolução de problemas
+* Boa comunicação
+* Rápido aprendizado
+* Criatividade
+* Organização
