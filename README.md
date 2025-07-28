@@ -50,12 +50,17 @@ Vitest • Testing Library • Jest • Cypress (E2E)
 
 ## 🧠 Princípios que sigo no código
 
-### 📌 KISS (Keep It Simple, Stupid): Busco manter o código simples, direto e fácil de entender.
-### 📌 DRY (Don't Repeat Yourself): Escrevo código reutilizável para evitar repetições desnecessárias.
-### 📌 Code Splitting e Lazy Loading: Otimizo performance carregando apenas o necessário.
-### 📌 Componentização e Clean Code: Organizo a lógica por responsabilidades claras, com nomes semânticos e foco em legibilidade.
-### 📌 Acessibilidade e Responsividade: Escrevo com foco em inclusão, boas práticas de ARIA e design adaptável.
-### 📌 Boas práticas com Git: Commits descritivos, branches organizadas e versionamento contínuo.
+📌 KISS (Keep It Simple, Stupid): Busco manter o código simples, direto e fácil de entender.
+
+📌 DRY (Don't Repeat Yourself): Escrevo código reutilizável para evitar repetições desnecessárias.
+
+📌 Code Splitting e Lazy Loading: Otimizo performance carregando apenas o necessário.
+
+📌 Componentização e Clean Code: Organizo a lógica por responsabilidades claras, com nomes semânticos e foco em legibilidade.
+
+📌 Acessibilidade e Responsividade: Escrevo com foco em inclusão, boas práticas de ARIA e design adaptável.
+
+📌 Boas práticas com Git: Commits descritivos, branches organizadas e versionamento contínuo.
 
 ---
 
