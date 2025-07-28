@@ -62,6 +62,7 @@ Vitest • Testing Library • Jest • Cypress (E2E)
 ## 🎓 Formação acadêmica
 
 📘 Faculdade Estadual de SP – Zona Sul (FATEC), Análise e Desenvolvimento de Sistemas, Curso Superior (2023 – dez/2025)
+
 📗 Escola Técnica Estadual de SP – Taboão (ETEC), Desenvolvimento de Sistemas, Curso Técnico (2020 – 2022)
 
 ---
@@ -69,7 +70,9 @@ Vitest • Testing Library • Jest • Cypress (E2E)
 ## 📚 Cursos Relevantes
 
 📙 The Ultimate React Course 2024 (React, Next.js, Redux & More) – Udemy
+
 📓 Advanced CSS and Sass – Udemy
+
 📘 The Complete JavaScript Course 2024 – Udemy
 
 ---
