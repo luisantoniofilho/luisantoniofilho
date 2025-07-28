@@ -31,19 +31,19 @@ Vitest • Testing Library • Jest • Cypress (E2E)
 ## 🧩 Projetos em Destaque
 
 ### 🛍️ [Kaya](https://github.com/luisantoniofilho/kaya)
-Marketplace de economia circular, com autenticação via Google, cadastro de produtos com imagem, e contato direto com vendedores.  
-🛠️ Next.js (App Router) • NextAuth.js • PostgreSQL (Neon) • Server Actions • Zod • Tailwind CSS • VercelBlob • Vitest + React Testing Library (Testes unitários e de integração) • Cypress (testes E2E)
+-Marketplace de economia circular, com autenticação via Google, cadastro de produtos com imagem, e contato direto com vendedores.  
+🛠️ Next.js (App Router) • NextAuth.js • PostgreSQL (Neon) • Server Actions • Zod • Tailwind CSS • VercelBlob • Vitest + React Testing Library (testes unitários e de integração) • Cypress (testes E2E)
 
 ### 🥦 [LightLife-V2](https://github.com/luisantoniofilho/lightlife-v2)
-Aplicação para calcular macronutrientes e acompanhar a dieta.  
+-Aplicação para calcular macronutrientes e acompanhar a dieta.  
 🛠️ Next.js • MongoDB • Spoonacular API • Tailwind CSS
 
 ### 🏨 [The Wild Oasis](https://github.com/luisantoniofilho/the-wild-oasis)
-Sistema de reservas de hotel com painel administrativo, login e visualizações dinâmicas.  
+-Sistema de reservas de hotel com painel administrativo, login e visualizações dinâmicas.  
 🛠️ React • Supabase • Styled Components
 
 ### 🍕 [Fast React Pizza](https://github.com/luisantoniofilho/fast-react-pizza)
-App de pedidos com carrinho, checkout e gerenciamento de estado.  
+-App de pedidos com carrinho, checkout e gerenciamento de estado.  
 🛠️ React • Redux • React Router
 
 ---
